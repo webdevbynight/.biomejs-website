@@ -272,7 +272,7 @@ export default defineConfig({
 							},
 						},
 						{
-							label: "VSCode extension",
+							label: "VS Code extension",
 							link: "/reference/vscode",
 							translations: {
 								ja: "VSCode拡張機能",
